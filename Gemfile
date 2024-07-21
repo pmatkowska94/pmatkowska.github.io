@@ -1,2 +1,2 @@
 # frozen_string_literal: true
-$ gem install jekyll-theme-yat
+gem 'jekyll-theme-yat'
