@@ -5,7 +5,9 @@
 # Yet another theme for elegant writers with modern flat style and beautiful
 # night/dark mode.
 
-theme: jekyll-theme-yat
+
+# theme: owner/name --> Don't forget to remove/comment the gem-based theme option
+remote_theme: "jeffreytse/jekyll-theme-yat"
 $ bundle
 
 # Website: https://github.com/jeffreytse/jekyll-theme-yat
