@@ -6,6 +6,7 @@
 # night/dark mode.
 
 theme: jekyll-theme-yat
+$ bundle
 
 # Website: https://github.com/jeffreytse/jekyll-theme-yat
 #
