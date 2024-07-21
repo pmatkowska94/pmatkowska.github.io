@@ -1,8 +1,7 @@
 ---
 layout: post
 Deciphering Big Data April 2024: Collaborative Discussion 2 - Comparing Compliance Laws
-<p>
-</p>
+---
 
 <p> The General Data Protection Regulation (GDPR), established by the EU, sets stringent standards for global data privacy, focusing on principles like lawful and fair data processing, data minimization, and accountability. It grants individuals specific rights over their personal data and mandates organizations to adopt robust privacy measures and conduct comprehensive risk assessments (Barwell, 2024), (Burgess, 2020), (Wolford, N.D.), (European Commission, 2019).
 </p>
